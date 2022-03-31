@@ -1,0 +1,29 @@
+table{
+    width: 20cm;
+    height: 10cm;
+
+}
+th{
+    font-size: 20px;
+}
+tr{
+   text-align: center;
+}
+table,tr,th,td{
+    border: 1px solid rgb(10, 10, 10);
+    border-collapse: collapse;
+}
+caption{
+    font-size: x-large;
+}
+nav{
+    padding-left: 1cm;
+}
+a{
+    padding-left: 10px;
+    font-size: x-large;
+}
+footer div{
+    float: left;
+    padding-left: 5cm;
+}

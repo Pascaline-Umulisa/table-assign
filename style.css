@@ -1,0 +1,19 @@
+iframe{
+    margin-left: 6cm;
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+    color: blue;
+}
+nav{
+    padding-left: 1cm;
+}
+a{
+    padding-left: 10px;
+    font-size: x-large;
+}
+footer div{
+    float: left;
+    padding-left: 5cm;
+}
