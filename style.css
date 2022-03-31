@@ -17,6 +17,8 @@ nav{
 }
 a{
     padding-left: 10px;
+    text-decoration: none;
+    color: blue;
     
 }
 .linkk{
