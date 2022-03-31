@@ -1,29 +1,56 @@
+body{
+    background-image: url(download.jpeg);
+}
 table{
     width: 20cm;
     height: 10cm;
-
 }
+
 th{
     font-size: 20px;
 }
 tr{
    text-align: center;
 }
-table,tr,th,td{
-    border: 1px solid rgb(10, 10, 10);
+th{
+    color: rgb(47, 46, 141);
+    font-size: xx-large;
+    border: 1px solid rgb(245, 238, 238);
     border-collapse: collapse;
+    background-color: rgb(173, 179, 245);
+    margin-left: 5cm;
+    
+}
+table,tr,td{
+    color: rgb(47, 46, 141);
+    font-size: xx-large;
+    border: 1px solid rgb(245, 238, 238);
+    border-collapse: collapse;
+    background-color: rgb(198, 202, 243);
+    margin-left: 6cm;
+
 }
 caption{
-    font-size: x-large;
+    font-size: 40px;
+    color: blue;
+
 }
 nav{
     padding-left: 1cm;
+    color:  rgb(28, 38, 122);
+    margin-top: 1cm;
+    margin-left: 5cm;
+    
 }
 a{
     padding-left: 10px;
     font-size: x-large;
 }
+footer {
+    font-size: larger;
+    background-color: rgb(198, 202, 243);
+    margin-top: 3cm;
+}
 footer div{
-    float: left;
-    padding-left: 5cm;
+    text-align: center;
 }

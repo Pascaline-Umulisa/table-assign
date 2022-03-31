@@ -1,5 +1,10 @@
+body{
+    background-image: url(download.jpeg);
+}
 iframe{
     margin-left: 6cm;
+    width: 20cm;
+    height: 10cm;
 }
 p{
     text-align: center;
@@ -8,12 +13,22 @@ p{
 }
 nav{
     padding-left: 1cm;
+    
 }
 a{
     padding-left: 10px;
+    
+}
+.linkk{
+    padding-left: 10px;
     font-size: x-large;
+    margin-left: 4cm;
+}
+footer {
+    font-size: larger;
+    background-color: rgb(198, 202, 243);
+    margin-top: 10px;
 }
 footer div{
-    float: left;
-    padding-left: 5cm;
+    text-align: center;
 }
